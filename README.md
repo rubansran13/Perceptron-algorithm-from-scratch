@@ -8,7 +8,7 @@ Preview of Perceptron working:
 
 ![Alt Text](Target_Function-1.png?raw=true "Perceptron estimation of Target Function(1)")
 
-![Alt Text](Comaprison_between_target_function_and_preceptron_estimator-1.png?raw=true "Perceptron estimation of Target Function(1)")
+![Alt Text](Comaprison_between_target_function_and_perceptron_estimator-1.png?raw=true "Perceptron estimation of Target Function(1)")
 
 ![Alt Text](Target_Function-2.png?raw=true "Target Function(2)")
 
